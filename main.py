@@ -2,5 +2,4 @@ import pyttsx3 # for more info check this website (https://pypi.org/project/pytt
 engine = pyttsx3.init()
 engine.say("I will speak this text")
 engine.say("I will speak this text")
-engine.say("I will speak this text")
 engine.runAndWait()
